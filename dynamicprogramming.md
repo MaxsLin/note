@@ -1,7 +1,8 @@
 # 动态规划
 
  定义：
- > dynamic programming is a method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions.
+ 
+ >  dynamic programming is a method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions.
 
  Ref:  [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 
