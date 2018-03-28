@@ -10,3 +10,5 @@
 * JAVA
 * Python
 * Docker
+* 算法
+    * [动态规划](https://github.com/MaxsLin/note/blob/master/dynamicprogramming.md)
